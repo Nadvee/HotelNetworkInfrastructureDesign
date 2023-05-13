@@ -1,5 +1,5 @@
 # Hotel Network Infrastructure Design
-<img width="1008" height="793" alt="image" src="https://github.com/user-attachments/assets/cd5d472b-c1d5-4ffb-976e-462b105d2da6" />
+<img width="1010" height="791" alt="Screenshot 2026-03-08 210244" src="https://github.com/user-attachments/assets/e35c8345-a5ce-4edb-b064-5fac6093b8d7" />
 
 🌐 NETWORK HIGHLIGHTS
 
