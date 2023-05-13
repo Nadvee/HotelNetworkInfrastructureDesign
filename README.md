@@ -1,4 +1,4 @@
-# Hotel Management System Network
+# Hotel Network Infrastructure Design
 <img width="1008" height="793" alt="image" src="https://github.com/user-attachments/assets/cd5d472b-c1d5-4ffb-976e-462b105d2da6" />
 
 🌐 NETWORK HIGHLIGHTS
